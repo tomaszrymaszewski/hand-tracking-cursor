@@ -14,10 +14,3 @@ The **Hand Tracking Cursor Control** script uses `MediaPipe`, `OpenCV`, and `PyA
 
 > **Note:** In future updates, I'll add more functionalities and scripts for different poses, face detection, and object tracking.
 
-## Installation
-
-To get started with these MediaPipe projects, clone this repository and install the required dependencies:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/mediapipe-projects.git
